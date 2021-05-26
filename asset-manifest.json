@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NamedEntityRecognition/static/css/main.75ba1a4c.chunk.css",
-    "main.js": "/NamedEntityRecognition/static/js/main.b3fbc235.chunk.js",
-    "main.js.map": "/NamedEntityRecognition/static/js/main.b3fbc235.chunk.js.map",
-    "runtime-main.js": "/NamedEntityRecognition/static/js/runtime-main.c60d634d.js",
-    "runtime-main.js.map": "/NamedEntityRecognition/static/js/runtime-main.c60d634d.js.map",
-    "static/js/2.75cfa555.chunk.js": "/NamedEntityRecognition/static/js/2.75cfa555.chunk.js",
-    "static/js/2.75cfa555.chunk.js.map": "/NamedEntityRecognition/static/js/2.75cfa555.chunk.js.map",
-    "static/js/3.47676b03.chunk.js": "/NamedEntityRecognition/static/js/3.47676b03.chunk.js",
-    "static/js/3.47676b03.chunk.js.map": "/NamedEntityRecognition/static/js/3.47676b03.chunk.js.map",
+    "main.css": "/NamedEntityRecognition/static/css/main.4be2f037.chunk.css",
+    "main.js": "/NamedEntityRecognition/static/js/main.3a7350b2.chunk.js",
+    "main.js.map": "/NamedEntityRecognition/static/js/main.3a7350b2.chunk.js.map",
+    "runtime-main.js": "/NamedEntityRecognition/static/js/runtime-main.9d49be0d.js",
+    "runtime-main.js.map": "/NamedEntityRecognition/static/js/runtime-main.9d49be0d.js.map",
+    "static/js/2.15830ede.chunk.js": "/NamedEntityRecognition/static/js/2.15830ede.chunk.js",
+    "static/js/2.15830ede.chunk.js.map": "/NamedEntityRecognition/static/js/2.15830ede.chunk.js.map",
+    "static/js/3.869f59c7.chunk.js": "/NamedEntityRecognition/static/js/3.869f59c7.chunk.js",
+    "static/js/3.869f59c7.chunk.js.map": "/NamedEntityRecognition/static/js/3.869f59c7.chunk.js.map",
     "index.html": "/NamedEntityRecognition/index.html",
-    "static/css/main.75ba1a4c.chunk.css.map": "/NamedEntityRecognition/static/css/main.75ba1a4c.chunk.css.map",
-    "static/js/2.75cfa555.chunk.js.LICENSE.txt": "/NamedEntityRecognition/static/js/2.75cfa555.chunk.js.LICENSE.txt",
+    "static/css/main.4be2f037.chunk.css.map": "/NamedEntityRecognition/static/css/main.4be2f037.chunk.css.map",
+    "static/js/2.15830ede.chunk.js.LICENSE.txt": "/NamedEntityRecognition/static/js/2.15830ede.chunk.js.LICENSE.txt",
     "static/media/App.css": "/NamedEntityRecognition/static/media/inflicted.0f70ab62.png",
     "static/media/text.css": "/NamedEntityRecognition/static/media/paper.426710c1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c60d634d.js",
-    "static/js/2.75cfa555.chunk.js",
-    "static/css/main.75ba1a4c.chunk.css",
-    "static/js/main.b3fbc235.chunk.js"
+    "static/js/runtime-main.9d49be0d.js",
+    "static/js/2.15830ede.chunk.js",
+    "static/css/main.4be2f037.chunk.css",
+    "static/js/main.3a7350b2.chunk.js"
   ]
 }
