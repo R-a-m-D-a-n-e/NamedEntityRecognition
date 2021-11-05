@@ -1,1 +1,0 @@
-Le modèle a été supprimé car il est volumineux pour le transfert.
